@@ -30,5 +30,6 @@ Autoři vás prosí, abyste se s nimi podělili o výsledky žáků, aby je mohl
 
 ## Autoři
 
-Martina Furková [furkova@gtnv.cz](mailto:furkova@gtnv.cz)
+**Martina Furková** [furkova@gtnv.cz](mailto:furkova@gtnv.cz)
+
 Jiří Pech [pech@gtnv.cz](mailto:pech@gtnv.cz)
