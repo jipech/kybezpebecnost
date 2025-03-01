@@ -27,3 +27,8 @@ Následuje [závěrečný test v Kahootu](https://1url.cz/71SPM). Doporučujeme 
 Autoři vás prosí, abyste se s nimi podělili o výsledky žáků, aby je mohli použít jako data pro svůj výzkum. Zajímá nás:
 - výsledek z Wordwallu ve tvaru (22 dětí, 14 dětí 6 bodů, 4 děti 4 body, 2 děti 4 body)
 - výsledek Kahootu (získáte pomocí Reports, vybrat test Questions). Zde nás zajímá počet odpovědí na jednotlivé možnosti. Např. 22 dětí, otázka 1, odpovědi 7, 8, 7, 0, otázka 2 True 10, False 12, atd. Vše samozřejmě anonymně, nemusíte uvádět ani školu, pouze o jakou třídu se jednalo (8. nebo 9.).
+
+## Autoři
+
+Martina Furková [furkova@gtnv.cz](mailto:furkova@gtnv.cz)
+Jiří Pech [pech@gtnv.cz](mailto:pech@gtnv.cz)
